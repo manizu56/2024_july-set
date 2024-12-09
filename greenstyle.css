@@ -1,8 +1,13 @@
 body {
-	background-color: lightgreen;
+	background-color: green;
 }
 
 h1 {
+<<<<<<< HEAD
 	color: green;
 	margin-left: 25px;
+=======
+	color: nany;
+	margin-left: 30px;
+>>>>>>> fixit
 }	
